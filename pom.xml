@@ -67,14 +67,14 @@
 
 	<distributionManagement>
 		<repository>
-			<id>repo.jotschi.de</id>
-			<name>repo.jotschi.de-releases</name>
-			<url>http://repo.jotschi.de/releases</url>
+			<id>maven.jotschi.de</id>
+			<name>maven.jotschi.de-releases</name>
+			<url>http://maven.jotschi.de/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>repo.jotschi.de</id>
-			<name>repo.jotschi.de-snapshots</name>
-			<url>http://repo.jotschi.de/snapshots</url>
+			<id>maven.jotschi.de</id>
+			<name>maven.jotschi.de-snapshots</name>
+			<url>http://maven.jotschi.de/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
